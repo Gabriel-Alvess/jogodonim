@@ -22,3 +22,5 @@ O projeto utiliza a biblioteca Bootstrap para estilização e layout responsivo 
 
 # Como executar o jogo
 Basta abrir o arquivo HTML em um navegador web para executar o jogo. É recomendável utilizar um navegador atualizado e com suporte para as tecnologias utilizadas no projeto (HTML, CSS e JavaScript).
+
+[Ou jogue aqui](https://gabrieljogodonim.netlify.app)
