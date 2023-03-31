@@ -1,6 +1,8 @@
 # Jogo do Nim
 
-Este é um projeto de um jogo em JavaScript chamado "Jogo do Nim". O objetivo do jogo é ser o jogador que deixa apenas uma peça na mesa, fazendo com que o outro jogador perca. O jogo começa com 21 peças e em cada rodada um jogador pode remover 1, 2 ou 3 peças, levando em conta o número atual de peças.
+Este é um projeto de um jogo em JavaScript chamado "Jogo do Nim".
+A aplicação tem a função de proporcionar a experiência do jogo Nim, utilizando das tecnologias HTML, JavaScript e CSS. O maior desafio enfrentado no desenvolvimento do jogo foi a interpretação das funcionalidades do jogo para a criação do mesmo.
+O objetivo do jogo é ser o jogador que deixa apenas uma peça na mesa, fazendo com que o outro jogador perca. O jogo começa com 21 peças e em cada rodada um jogador pode remover 1, 2 ou 3 peças, levando em conta o número atual de peças.
 
 O projeto contém um arquivo HTML com a estrutura do jogo, um arquivo CSS para estilização, e um arquivo JavaScript para o funcionamento do jogo.
 
