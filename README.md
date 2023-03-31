@@ -17,6 +17,13 @@ Clique nos botões de -1, -2 ou -3 para remover peças da mesa.
 O jogador que deixar apenas uma peça na mesa vence o jogo.
 Clique no botão "Reiniciar" para começar um novo jogo.
 
+# Referências
+[Game of Nim](https://happycoding.io/tutorials/javascript/if-statements/game-of-nim)
+[Wikipedia Nim](https://en.wikipedia.org/wiki/Nim)
+
+# Dificuldades
+compreender o código e extender as funcionalidades
+
 # Propriedades adicionais
 O projeto utiliza a biblioteca Bootstrap para estilização e layout responsivo da página. Também é utilizado JavaScript para fazer a lógica do jogo, como a atualização do número de peças na mesa, a verificação do vencedor e a troca de jogador. A página contém mensagens que são exibidas para informar ao jogador sobre as ações realizadas, como a quantidade de peças removidas e qual jogador está jogando.
 
