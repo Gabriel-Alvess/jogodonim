@@ -1,2 +1,4 @@
-# jogodonim
-Este é o jogo do Nim
+# Jogo: Nim
+Este é o jogo 'Nim'
+
+
