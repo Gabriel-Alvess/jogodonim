@@ -1,0 +1,9 @@
+
+div .cartao{
+    border-style: solid;
+    border-color: blue;
+    background-color: skyblue;
+    box-shadow: 20px 20px 5px rgba(0, 0, 255, 0.5);
+    max-height: 500px;
+    overflow: scroll;
+}
